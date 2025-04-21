@@ -8,7 +8,6 @@ import PerforadoraImage from '../../assets/Images/perforadora.png'
 import { Link } from 'react-router-dom';
 // carrousel 
 import Carousel from 'react-material-ui-carousel';
-import { Paper } from '@mui/material';
 
 const images = [
   "https://img.freepik.com/foto-gratis/constructor-industrial-trabaja-amoladora-angular-profesional-cortar-ladrillos-construir-paredes-interiores-electricista_169016-5878.jpg?t=st=1745064383~exp=1745067983~hmac=c3f94875b14ff8da1f10d7a5b5df84a90281dc6a1730476c82e1caa5e06fb1c7&w=996",
@@ -22,18 +21,16 @@ const Homepage = () => {
       <Box sx={{ maxWidth: 1000, flexGrow: 1, margin: 'auto', mt: 5 }}>
         <Carousel>
           {images.map((image, i) => (
-            <Paper key={i} elevation={10}>
-              <Box 
-                component="img"
-                sx={{
-                  width: '100%',
-                  height: '500px',
-                  objectFit: 'cover'
-                }}
-                src={image}
-                alt={`Slide ${i}`}jpg
-              />
-            </Paper>
+            <Box
+              component="img"
+              sx={{
+                width: '100%',
+                height: '500px',
+                objectFit: 'cover'
+              }}
+              src={image}
+              alt={`Slide ${i}`}
+            />
           ))}
         </Carousel>
       </Box>       
