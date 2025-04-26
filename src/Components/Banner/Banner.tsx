@@ -1,6 +1,6 @@
 // import React from 'react'
 import { Container } from '@mui/material'
-import BannerImage from '../../assets/Images/Banner2.jpg'
+import BannerImage from '../../assets/Images/Banner1.png'
 
 // type Props = {}
 
