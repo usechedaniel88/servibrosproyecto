@@ -35,11 +35,21 @@ const Homepage = () => {
         </Carousel>
       </Box>       
         <p style={{textAlign:'justify'}}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quaerat repellat dolorem enim, ad dicta! Minima nobis est sunt soluta, nesciunt quae recusandae incidunt at et quaerat quos exercitationem ipsam. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum maxime dolor quidem. Fugiat repudiandae deserunt, quasi enim sunt neque, blanditiis pariatur ad quisquam eum ipsa autem, ipsam non exercitationem sed. Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit harum nihil impedit nostrum sit libero beatae repellendus fugit possimus provident, ad animi aperiam excepturi nesciunt odio atque quidem tempore a? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas itaque quisquam fugit aut. Saepe minima hic consectetur non illo ab magni repudiandae repellat, iusto rerum facere nihil dolorum eum eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. At facilis necessitatibus alias deserunt, blanditiis doloribus sed doloremque odio, labore maxime earum libero dolorem cupiditate. Tenetur fugit cumque natus aliquid autem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos molestiae id dignissimos? Omnis praesentium optio harum odit exercitationem sunt! Corporis reiciendis tempore voluptatum accusamus ipsa quia reprehenderit corrupti tempora doloremque. lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, tempore praesentium. Enim, asperiores deleniti accusantium minima perferendis, labore ea nesciunt nobis voluptate aspernatur incidunt dolores ut qui adipisci omnis nostrum. ,Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit consequatur explicabo consectetur rerum omnis, dolore nulla neque tenetur, sequi ducimus officiis quod illo corporis pariatur suscipit veniam animi tempore in! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, quae esse neque quis tempora quos assumenda quisquam doloribus, veniam voluptas nostrum voluptatibus, harum corporis! Sint maxime a reiciendis eveniet delectus. 
+        Somos tu aliado estratégico en proyectos de construcción. Nos especializamos en ofrecer soluciones precisas y efectivas para una variedad de necesidades en obras civiles. Contamos con una amplia experiencia y conocimientos técnicos en las siguientes áreas:
+        <br />
+        <br />  Perforaciones en hormigón y otros materiales: Realizamos perforaciones con alta precisión, ya sea en estructuras de hormigón, piedra, acero u otros materiales, utilizando maquinaria avanzada para asegurar la calidad y seguridad en cada trabajo. 
+        <br />
+        <br />  Demoliciones técnicas: Nos encargamos de demoliciones controladas y especializadas, garantizando que el proceso se lleve a cabo de manera segura y eficiente, minimizando riesgos y tiempos de ejecución.
+        <br />
+        <br />  Instalación de anclajes en obra: Instalamos anclajes de forma profesional y segura, adaptados a las necesidades específicas de cada proyecto para asegurar la estabilidad y durabilidad de las estructuras.
+        <br />
+        <br />  Trabajamos juntos contigo, combinando nuestra experiencia y tecnología de vanguardia para incrementar tu productividad. Nuestro objetivo es optimizar cada fase del proceso, proporcionando soluciones personalizadas que respondan a tus necesidades particulares, maximizando la eficiencia y reduciendo costos.
+        Innovación y valor añadido son nuestros pilares. Nos esforzamos por crear valor para nuestros clientes, brindando soluciones técnicas innovadoras y de alta calidad dentro de la industria de la construcción. Gracias a nuestro equipo altamente capacitado y el uso de maquinaria especializada, nos aseguramos de que cada proyecto se lleve a cabo con los más altos estándares de calidad y seguridad.
+        Tu éxito es nuestra prioridad, y trabajamos con dedicación para superar tus expectativas en cada desafío.
         </p>
         <Button 
         variant="contained"
-        sx={{color:'white !important'}}
+        sx={{color:'white !important', marginTop: '20px', marginBottom: '20px', padding: '10px 20px', borderRadius: '5px', textTransform: 'uppercase'}}
         href="./contact" target="_blank"
         > SOLICITA TU PRESUPUESTO</Button>
         <ImageListItem sx={{minWidt:80, maxWidth: 200, margin:'0 auto', borderRadius:'10px', marginTop:'20px', marginBottom: '20px'}} data-aos="fade-left">

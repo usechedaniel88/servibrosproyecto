@@ -31,10 +31,10 @@ export default function ServicesPage() {
             alt="green iguana" />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Lorem ipsum, dolor sit amet
+              Pulidos en hormigon 
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut beatae vitae laborum dolorem recusandae harum eius. Tenetur, suscipit nobis. Nostrum laudantium eveniet ut. Sit, ullam aspernatur! Maiores beatae dolore voluptate! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti similique repellat consectetur aspernatur animi laborum distinctio nam, sequi blanditiis quidem voluptatem rem, necessitatibus voluptatibus laboriosam? Iusto, officia quam? Dolor, ducimus.
+              Ofrecemos un servicio de pulido de hormigón de alta calidad que transforma cualquier superficie de concreto en una obra de arte funcional. Ya sea que necesites renovar un espacio comercial, industrial o residencial, nuestro servicio de pulido no solo mejora la estética de tus pisos, sino que también aumenta su durabilidad y facilita su mantenimiento.
             </Typography>
           </CardContent>
         </CardActionArea>
@@ -55,10 +55,10 @@ export default function ServicesPage() {
               alt="green iguana" />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
-                Lorem ipsum, dolor sit amet
+                Fresados en hormigon
               </Typography>
               <Typography variant="body2" color="text.secondary">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut beatae vitae laborum dolorem recusandae harum eius. Tenetur, suscipit nobis. Nostrum laudantium eveniet ut. Sit, ullam aspernatur! Maiores beatae dolore voluptate! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti similique repellat consectetur aspernatur animi laborum distinctio nam, sequi blanditiis quidem voluptatem rem, necessitatibus voluptatibus laboriosam? Iusto, officia quam? Dolor, ducimus.
+                Proporcionamos un servicio especializado de fresado de hormigón diseñado para cumplir con las exigencias más altas de precisión y calidad. Ya sea para preparar una superficie para una nueva capa de pavimento, eliminar imperfecciones o crear un acabado específico, nuestro servicio de fresado es ideal para proyectos de construcción, renovación o mantenimiento.
               </Typography>
             </CardContent>
           </CardActionArea>
@@ -79,10 +79,10 @@ export default function ServicesPage() {
               alt="green iguana" />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
-                Lorem ipsum, dolor sit amet
+                Impermeabilizaciones
               </Typography>
               <Typography variant="body2" color="text.secondary">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut beatae vitae laborum dolorem recusandae harum eius. Tenetur, suscipit nobis. Nostrum laudantium eveniet ut. Sit, ullam aspernatur! Maiores beatae dolore voluptate! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti similique repellat consectetur aspernatur animi laborum distinctio nam, sequi blanditiis quidem voluptatem rem, necessitatibus voluptatibus laboriosam? Iusto, officia quam? Dolor, ducimus.
+                Brindamos soluciones completas para la reparación, refuerzo e impermeabilización de estructuras de hormigón, asegurando la integridad y longevidad de tus edificaciones. Sabemos que las estructuras de hormigón pueden verse afectadas por el paso del tiempo, el desgaste, las inclemencias del clima o problemas de diseño, por lo que nuestro equipo está preparado para abordar cualquier desafío con tecnología avanzada y un enfoque profesional.
               </Typography>
             </CardContent>
           </CardActionArea>

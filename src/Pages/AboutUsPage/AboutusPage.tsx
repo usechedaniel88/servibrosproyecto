@@ -13,57 +13,17 @@ const AboutusPage = () => {
             <img style={{borderRadius:'20px'}} src={AboutusImage} alt="ImageAboutus" />
         </ImageListItem>
         <p style={{textAlign:'justify'}}>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus, laudantium recusandae fuga vel laborum aut neque, voluptate tempora dolore harum rem odit perferendis quisquam suscipit doloribus autem reiciendis molestiae atque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, in dolorum fugit, reiciendis laborum, dolor possimus ducimus unde veritatis eum adipisci nihil labore. Praesentium, natus. Voluptate excepturi a perspiciatis nostrum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, perspiciatis perferendis eveniet quaerat libero magni hic voluptatibus quo iure illum nam esse laboriosam enim necessitatibus ex impedit consequuntur corporis obcaecati. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus asperiores consequatur harum odio dolor, ea molestias id, saepe blanditiis cupiditate error delectus at dolore rerum commodi qui alias. Blanditiis, tempore?
+        Somos expertos en perforaciones y trabajos técnicos en construcción. Nos especializamos en realizar perforaciones de hormigón y otros materiales base, adaptándonos a las necesidades específicas de cada proyecto. Ya sea que se trate de perforaciones en estructuras de hormigón, piedra, acero u otros materiales resistentes, utilizamos maquinaria avanzada y técnicas de vanguardia para garantizar precisión y seguridad en cada trabajo realizado.
+
+Además, ofrecemos un asesoramiento integral en demoliciones técnicas controladas. Nuestro equipo de profesionales altamente capacitados se encarga de gestionar proyectos de demolición, asegurando que cada proceso se realice de manera controlada, minimizando riesgos y respetando los plazos establecidos. Contamos con equipos y herramientas especializadas que permiten llevar a cabo demoliciones de manera eficiente, sin comprometer la seguridad ni la integridad de las estructuras circundantes.
+
+También somos expertos en instalación de anclajes en obra, proporcionando soluciones personalizadas para cada tipo de proyecto. Nuestros anclajes son instalados con los más altos estándares de seguridad y precisión, garantizando la estabilidad y durabilidad de las estructuras, sean estas parte de obras nuevas o proyectos de rehabilitación.
+
+Nuestra experiencia es nuestro mayor valor. Contamos con un equipo de profesionales altamente cualificados, con una formación de excelencia proveniente de la industria más potente del sector a nivel mundial. Con más de 20 años de experiencia, estamos comprometidos en ofrecer un servicio que cumpla con los más altos estándares de calidad. Nos aseguramos de que cada trabajo, sin importar su tamaño o complejidad, se realice con precisión, eficiencia y respeto por los plazos y presupuesto establecidos.
+
+Nuestro compromiso es claro: proporcionar un servicio de alta calidad en cada fase del proyecto. Ya sea en la perforación, demolición o instalación de anclajes, trabajamos con dedicación para garantizar que nuestros clientes obtengan resultados excepcionales que superen sus expectativas.
+
         </p>
-        {/* <section className="skills" id="skills" style={{borderRadius: '20px'}}>
-                <div className="contenido-seccion">
-                    <div className="fila">
-                        <div className="col">
-                            <h3>Nuestros objetivos</h3>
-                            <div className="skill">
-                                <span>Comunicacion</span>
-                                <div className="barra-skill">
-                                    <div className="progreso comunicacion">
-                                        <span>100%</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="skill">
-                                <span>Compromiso</span>
-                                <div className="barra-skill">
-                                    <div className="progreso trabajo-en-equipo">
-                                        <span>100%</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="skill">
-                                <span>Profesionalismo</span>
-                                <div className="barra-skill">
-                                    <div className="progreso creatividad">
-                                        <span>100%</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="skill">
-                                <span>Dedicacion</span>
-                                <div className="barra-skill">
-                                    <div className="progreso dedicacion">
-                                        <span>100%</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="skill">
-                                <span>Responsabilidad</span>
-                                <div className="barra-skill">
-                                    <div className="progreso responsabilidad">
-                                        <span>100%</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>  
-                </div>
-            </section> */}
     </Container>
   )
 }
