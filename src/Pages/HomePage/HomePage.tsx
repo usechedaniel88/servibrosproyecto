@@ -12,9 +12,9 @@ import { Link } from 'react-router-dom';
 import Carousel from 'react-material-ui-carousel';
 
 const images = [
-  "https://img.freepik.com/fotos-premium/trabajador-construccion-coring-concreto_33835-320.jpg?w=996",
-  "https://img.freepik.com/fotos-premium/trabajador-que-utiliza-maquina-hoja-sierra-diamante-cortando-carretera-hormigon-sitio-construccion_293060-12257.jpg?w=996",
-  "https://img.freepik.com/fotos-premium/trabajador-martillo-neumatico-rompe-pilotes-hormigon-derribando-cabeza-pilote-herramienta-manual-preparacion-pilotes-montar-cimientos_331695-5765.jpg?w=996",
+  "https://img.freepik.com/vector-gratis/proximamente-texto-sobre-fondo-oscuro-amanecer-abstracto-efecto-movimiento_157027-1073.jpg?t=st=1745772881~exp=1745776481~hmac=d5e93c9985fb3618d42290319a0e604bfb776f418407da90c2bb9e5c86974a05&w=1060",
+  "https://img.freepik.com/foto-gratis/simbolo-desinstalacion_53876-120808.jpg?t=st=1745772996~exp=1745776596~hmac=30499989b3d6aba688f076a90a2f2c24c4dffd4c9ae2ce2db7df51f4c55c0f95&w=1060",
+  "https://img.freepik.com/vector-gratis/ilustracion-realista-icono-vectorial-elemento-barra-progreso-verde-actualizaciones-software-juegos-l_134830-2213.jpg?t=st=1745773045~exp=1745776645~hmac=4e423aa4548ee4df1e62f33b904d8bc77aca582203a5895cafbeed69f2449384&w=1380",
 ];
 
 const Homepage = () => {
