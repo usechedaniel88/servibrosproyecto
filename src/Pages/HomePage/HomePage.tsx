@@ -1,6 +1,8 @@
 // import React from 'react'
 import InstagramIcon from '@mui/icons-material/Instagram';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import FacebookIcon from '@mui/icons-material/Facebook';
+import XIcon from '@mui/icons-material/X';
 // import GitHubIcon from '@mui/icons-material/GitHub';
 import { Box, Button, Container, ImageListItem } from '@mui/material'
 // import ChatImage from '../../assets/Images/0lbaprm8.png'
@@ -68,12 +70,18 @@ const Homepage = () => {
         fontSize="large"
         />
         </Link>
-        {/* <Link to='https://github.com/usechedaniel88' target="_blank">
-        <GitHubIcon 
+        <Link to='https://www.facebook.com' target="_blank">
+        <FacebookIcon 
         color="primary"
         fontSize="large"
         />
-        </Link> */}
+        </Link>
+        <Link to='https://www.facebook.com' target="_blank">
+        <XIcon
+        color="primary"
+        fontSize="large"
+        />
+        </Link>
     </Container>
   )
 }
