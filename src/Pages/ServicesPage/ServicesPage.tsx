@@ -3,8 +3,7 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
-import { Box, Button, CardActionArea, CardActions, Container } from '@mui/material';
-import { Link } from 'react-router-dom';
+import { Box, CardActionArea, CardActions, Container } from '@mui/material';
 import Servicios1 from '../../assets/Images/servicios1.jpg'
 import Servicios2 from '../../assets/Images/servicios2.jpg'
 import Servicios3 from '../../assets/Images/servicios3.jpg'
@@ -18,6 +17,7 @@ export default function ServicesPage() {
         display: 'flex',
         flexDirection: { xs: 'column', sm: 'row' },
         justifyContent: { xs: 'center', sm: 'center' },
+        textAlign: 'justify',
         marginTop:'40px',
         gap: '40px',
       }}
@@ -31,19 +31,19 @@ export default function ServicesPage() {
             alt="green iguana" />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Pulidos en hormigon 
+              Perforacion de hormigon 
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              Ofrecemos un servicio de pulido de hormigón de alta calidad que transforma cualquier superficie de concreto en una obra de arte funcional. Ya sea que necesites renovar un espacio comercial, industrial o residencial, nuestro servicio de pulido no solo mejora la estética de tus pisos, sino que también aumenta su durabilidad y facilita su mantenimiento.
+              Ofrecemos un servicio especializado de perforación de hormigón con tecnología de punta y personal altamente capacitado, ideal para instalaciones eléctricas, sanitarias, ventilación o cualquier tipo de proyecto que requiera precisión y eficiencia. Trabajamos con distintos diámetros y profundidades, garantizando cortes limpios, seguros y sin vibraciones que puedan dañar la estructura. Nos adaptamos a tus necesidades, ya sea en obras nuevas, remodelaciones o trabajos industriales.
             </Typography>
           </CardContent>
         </CardActionArea>
         <CardActions>
-          <Link to={'#'}>
+          {/* <Link to={'#'}>
             <Button size="small" color="primary">
               Link
             </Button>
-          </Link>
+          </Link> */}
         </CardActions>
       </Card>
         <Card sx={{ maxWidth: 345 }}>
@@ -55,19 +55,19 @@ export default function ServicesPage() {
               alt="green iguana" />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
-                Fresados en hormigon
+                Corte de hormigon
               </Typography>
               <Typography variant="body2" color="text.secondary">
-                Proporcionamos un servicio especializado de fresado de hormigón diseñado para cumplir con las exigencias más altas de precisión y calidad. Ya sea para preparar una superficie para una nueva capa de pavimento, eliminar imperfecciones o crear un acabado específico, nuestro servicio de fresado es ideal para proyectos de construcción, renovación o mantenimiento.
+                Brindamos un servicio profesional de corte de hormigón, utilizando equipos de alta precisión para garantizar resultados limpios, seguros y eficientes en todo tipo de estructuras. Realizamos cortes en muros, losas y pavimentos, adaptándonos a las necesidades de cada proyecto, ya sea en obras civiles, industriales o residenciales. Nuestro compromiso es ofrecer soluciones rápidas y efectivas, minimizando el impacto en la estructura existente y cumpliendo con los más altos estándares de calidad.
               </Typography>
             </CardContent>
           </CardActionArea>
           <CardActions>
-            <Link to={'#'}>
+            {/* <Link to={'#'}>
               <Button size="small" color="primary">
                 Link
               </Button>
-            </Link>
+            </Link> */}
           </CardActions>
         </Card>
         <Card sx={{ maxWidth: 345 }}>
@@ -79,19 +79,19 @@ export default function ServicesPage() {
               alt="green iguana" />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
-                Impermeabilizaciones
+                Demolicion de hormigon
               </Typography>
               <Typography variant="body2" color="text.secondary">
-                Brindamos soluciones completas para la reparación, refuerzo e impermeabilización de estructuras de hormigón, asegurando la integridad y longevidad de tus edificaciones. Sabemos que las estructuras de hormigón pueden verse afectadas por el paso del tiempo, el desgaste, las inclemencias del clima o problemas de diseño, por lo que nuestro equipo está preparado para abordar cualquier desafío con tecnología avanzada y un enfoque profesional.
+                Prestamos un servicio de demolición de hormigón eficiente y seguro, adaptado a todo tipo de obras, ya sean parciales o totales. Contamos con maquinaria especializada y personal calificado para llevar a cabo trabajos controlados, minimizando vibraciones, polvo y ruidos, y garantizando la protección de las estructuras aledañas. Nos enfocamos en cumplir con los plazos acordados y mantener un entorno de trabajo limpio y ordenado.
               </Typography>
             </CardContent>
           </CardActionArea>
           <CardActions>
-            <Link to={'#'}>
+            {/* <Link to={'#'}>
               <Button size="small" color="primary">
                 Link
               </Button>
-            </Link>
+            </Link> */}
           </CardActions>
         </Card>
       </Box>

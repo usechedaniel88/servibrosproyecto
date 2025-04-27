@@ -8,7 +8,7 @@ import AboutusImage from '../../assets/Images/quienessomos.jpg'
 
 const AboutusPage = () => {
   return (
-    <Container>
+    <Container sx={{margin:'0 auto', textAlign: 'center'}}>
         <ImageListItem sx={{minWidth:200, maxWidth: 400, margin:'0 auto', borderRadius:'10px', marginTop:'20px'}} data-aos="fade-left">
             <img style={{borderRadius:'20px'}} src={AboutusImage} alt="ImageAboutus" />
         </ImageListItem>

@@ -10,9 +10,9 @@ import { Link } from 'react-router-dom';
 import Carousel from 'react-material-ui-carousel';
 
 const images = [
-  "https://img.freepik.com/foto-gratis/constructor-industrial-trabaja-amoladora-angular-profesional-cortar-ladrillos-construir-paredes-interiores-electricista_169016-5878.jpg?t=st=1745064383~exp=1745067983~hmac=c3f94875b14ff8da1f10d7a5b5df84a90281dc6a1730476c82e1caa5e06fb1c7&w=996",
-  "https://img.freepik.com/foto-gratis/manitas-sitio-construccion-proceso-perforacion-pared-perforador_169016-12112.jpg?t=st=1745064434~exp=1745068034~hmac=909769f561a09cfc7e31a397a20009ba6108963203912c990b35718e38c3dbb8&w=996",
-  "https://img.freepik.com/foto-gratis/artesano-proceso-perforar-pared-perforador_169016-51134.jpg?t=st=1745064532~exp=1745068132~hmac=08a053bff37edacaf6345e97f92d3ab574b1ddccab06af46791c22df3a58f2f7&w=1380",
+  "https://img.freepik.com/fotos-premium/trabajador-construccion-coring-concreto_33835-320.jpg?w=996",
+  "https://img.freepik.com/fotos-premium/trabajador-que-utiliza-maquina-hoja-sierra-diamante-cortando-carretera-hormigon-sitio-construccion_293060-12257.jpg?w=996",
+  "https://img.freepik.com/fotos-premium/trabajador-martillo-neumatico-rompe-pilotes-hormigon-derribando-cabeza-pilote-herramienta-manual-preparacion-pilotes-montar-cimientos_331695-5765.jpg?w=996",
 ];
 
 const Homepage = () => {
@@ -25,7 +25,7 @@ const Homepage = () => {
               component="img"
               sx={{
                 width: '100%',
-                height: '500px',
+                height: '600px',
                 objectFit: 'cover'
               }}
               src={image}
@@ -37,7 +37,7 @@ const Homepage = () => {
         <p style={{textAlign:'justify'}}>
         Somos tu aliado estratégico en proyectos de construcción. Nos especializamos en ofrecer soluciones precisas y efectivas para una variedad de necesidades en obras civiles. Contamos con una amplia experiencia y conocimientos técnicos en las siguientes áreas:
         <br />
-        <br />  Perforaciones en hormigón y otros materiales: Realizamos perforaciones con alta precisión, ya sea en estructuras de hormigón, piedra, acero u otros materiales, utilizando maquinaria avanzada para asegurar la calidad y seguridad en cada trabajo. 
+        <br />  Perforaciones y cortes en hormigón y otros materiales: Realizamos perforaciones y cortes con alta precisión, ya sea en estructuras de hormigón, piedra, acero u otros materiales, utilizando maquinaria avanzada para asegurar la calidad y seguridad en cada trabajo. 
         <br />
         <br />  Demoliciones técnicas: Nos encargamos de demoliciones controladas y especializadas, garantizando que el proceso se lleve a cabo de manera segura y eficiente, minimizando riesgos y tiempos de ejecución.
         <br />
