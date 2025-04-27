@@ -12,9 +12,9 @@ import { Link } from 'react-router-dom';
 import Carousel from 'react-material-ui-carousel';
 
 const images = [
-  "https://img.freepik.com/vector-gratis/proximamente-texto-sobre-fondo-oscuro-amanecer-abstracto-efecto-movimiento_157027-1073.jpg?t=st=1745772881~exp=1745776481~hmac=d5e93c9985fb3618d42290319a0e604bfb776f418407da90c2bb9e5c86974a05&w=1060",
-  "https://img.freepik.com/foto-gratis/simbolo-desinstalacion_53876-120808.jpg?t=st=1745772996~exp=1745776596~hmac=30499989b3d6aba688f076a90a2f2c24c4dffd4c9ae2ce2db7df51f4c55c0f95&w=1060",
-  "https://img.freepik.com/vector-gratis/ilustracion-realista-icono-vectorial-elemento-barra-progreso-verde-actualizaciones-software-juegos-l_134830-2213.jpg?t=st=1745773045~exp=1745776645~hmac=4e423aa4548ee4df1e62f33b904d8bc77aca582203a5895cafbeed69f2449384&w=1380",
+  "https://sdmntprukwest.oaiusercontent.com/files/00000000-b310-6243-bfac-fa55ceb84c42/raw?se=2025-04-27T20%3A31%3A34Z&sp=r&sv=2024-08-04&sr=b&scid=6e49ace0-8876-5f6f-a2ac-f119d8366078&skoid=9370dd2b-ca43-4270-bed5-18b1b71f8fa0&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-27T07%3A19%3A15Z&ske=2025-04-28T07%3A19%3A15Z&sks=b&skv=2024-08-04&sig=LBvf01axjXO286sFLsSm184BV3XWx7ifNLi%2B74C65so%3D",
+  "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-3060-620a-b86a-313c7803616d/raw?se=2025-04-27T20%3A26%3A20Z&sp=r&sv=2024-08-04&sr=b&scid=22d11799-0823-5f10-b5d4-2b3b72a58118&skoid=9370dd2b-ca43-4270-bed5-18b1b71f8fa0&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-27T06%3A17%3A07Z&ske=2025-04-28T06%3A17%3A07Z&sks=b&skv=2024-08-04&sig=mvF/4aaMxB%2BVL%2BkM0bWPDolOG9fqXdagBWyJF4e5Dw0%3D",
+  "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-a1b4-620a-af81-174ae458b274/raw?se=2025-04-27T20%3A28%3A45Z&sp=r&sv=2024-08-04&sr=b&scid=ea8d9e74-d6c0-5efb-989f-4253a35f9d5f&skoid=9370dd2b-ca43-4270-bed5-18b1b71f8fa0&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-27T06%3A11%3A12Z&ske=2025-04-28T06%3A11%3A12Z&sks=b&skv=2024-08-04&sig=WVI2urRdWbex2r0HwDglXjLn2NHmtoUEN9GebKbxsKM%3D",
 ];
 
 const Homepage = () => {
