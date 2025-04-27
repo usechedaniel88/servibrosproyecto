@@ -37,16 +37,16 @@ const Homepage = () => {
         </Carousel>
       </Box>       
         <p style={{textAlign:'justify'}}>
-        Somos tu aliado estratégico en proyectos de construcción. Nos especializamos en ofrecer soluciones precisas y efectivas para una variedad de necesidades en obras civiles. Contamos con una amplia experiencia y conocimientos técnicos en las siguientes áreas:
+        Somos tu aliado estratégico en proyectos de construcción. Nos especializamos en ofrecer soluciones precisas y efectivas para una variedad de necesidades en obras. Contamos con una amplia experiencia y conocimientos técnicos en las siguientes áreas:
         <br />
-        <br />  Perforaciones y cortes en hormigón y otros materiales: Realizamos perforaciones y cortes con alta precisión, ya sea en estructuras de hormigón, piedra, acero u otros materiales, utilizando maquinaria avanzada para asegurar la calidad y seguridad en cada trabajo. 
+        <br />  Perforaciones y cortes en hormigón. Ademas de otros materiales base: Realizamos perforaciones con alta precisión y cortes, ya sea en estructuras de hormigón, piedra, acero u otros materiales, utilizando maquinaria avanzada para asegurar la calidad y seguridad en cada trabajo. 
         <br />
         <br />  Demoliciones técnicas: Nos encargamos de demoliciones controladas y especializadas, garantizando que el proceso se lleve a cabo de manera segura y eficiente, minimizando riesgos y tiempos de ejecución.
         <br />
         <br />  Instalación de anclajes en obra: Instalamos anclajes de forma profesional y segura, adaptados a las necesidades específicas de cada proyecto para asegurar la estabilidad y durabilidad de las estructuras.
         <br />
-        <br />  Trabajamos juntos contigo, combinando nuestra experiencia y tecnología de vanguardia para incrementar tu productividad. Nuestro objetivo es optimizar cada fase del proceso, proporcionando soluciones personalizadas que respondan a tus necesidades particulares, maximizando la eficiencia y reduciendo costos.
-        Innovación y valor añadido son nuestros pilares. Nos esforzamos por crear valor para nuestros clientes, brindando soluciones técnicas innovadoras y de alta calidad dentro de la industria de la construcción. Gracias a nuestro equipo altamente capacitado y el uso de maquinaria especializada, nos aseguramos de que cada proyecto se lleve a cabo con los más altos estándares de calidad y seguridad.
+        <br />  Trabajamos contigo, combinando nuestra experiencia y tecnología de vanguardia para incrementar tu productividad. Nuestro objetivo es simplificar cada fase del proceso, proporcionando soluciones personalizadas que respondan a tus necesidades particulares, maximizando la eficiencia y reduciendo costos.
+        Innovación y compromiso son nuestros pilares. Nos esforzamos por crear valor para nuestros clientes, brindando soluciones técnicas innovadoras y de alta calidad dentro de la industria de la construcción. Gracias a nuestro equipo altamente capacitado y el uso de maquinaria especializada, nos aseguramos de que cada proyecto se lleve a cabo con los más altos estándares de calidad y seguridad.
         Tu éxito es nuestra prioridad, y trabajamos con dedicación para superar tus expectativas en cada desafío.
         </p>
         <Button 
