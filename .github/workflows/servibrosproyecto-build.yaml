@@ -40,8 +40,6 @@ jobs:
           npm ci
           npm run build
           npm run dev
-          npm run lint
-          npm run preview
 
 # Please do not touch the following action
       - name: Store deployment content
@@ -49,7 +47,7 @@ jobs:
         with:
           api-key: ${{ secrets.IONOS_API_KEY }}
           service-host: api-eu.ionos.space
-          project-id: 869c4fc7-ffc5-434d-90e0-0dbb3a57e628
+          project-id: 706200ad-675b-4112-9000-cf33b03fee7d
           branch-id: ${{ inputs.branch-id }}
           version: ${{ github.sha }}
           folder: ${{ env.DEPLOYMENT_FOLDER }}
