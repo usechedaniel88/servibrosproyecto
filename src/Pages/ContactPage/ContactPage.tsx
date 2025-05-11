@@ -20,7 +20,7 @@ import LocationOnIcon from '@mui/icons-material/LocationOn';
          <h2>
            <CallIcon
              fontSize="medium"
-             color="primary" /> 696 69 69 96
+             color="primary" /> 696 69 69 31
          </h2>
          <h2>
            <EmailIcon
