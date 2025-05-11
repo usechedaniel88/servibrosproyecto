@@ -20,12 +20,12 @@ import LocationOnIcon from '@mui/icons-material/LocationOn';
          <h2>
            <CallIcon
              fontSize="medium"
-             color="primary" /> 696 69 69 31
+             color="primary" /> +34 687 37 15 67
          </h2>
          <h2>
            <EmailIcon
              fontSize="medium"
-             color="primary" /> info@servibros.com
+             color="primary" /> administracion@servibros.com
          </h2>
          <h2>
            <LocationOnIcon

@@ -18,7 +18,7 @@ const Footer = () => {
       }}
     >
     <Typography variant="body1">
-      &copy; Desarrollado por Daniel Useche - {new Date().getFullYear()}
+      &copy; {new Date().getFullYear()} Servibros. Todos los derechos reservados.
     </Typography>
 </Container>
   )
